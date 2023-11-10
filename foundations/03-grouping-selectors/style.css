@@ -1,18 +1,9 @@
-.add{
-    color white;
+.button-one{
     background-color: black;
-    font-family: Helvetica, "Times New Roman", sans-serif;
-}
-.add{
     color: cornsilk;
+    font-size: 28px;
 }
-.add{
-    font-size: 28px
-}
-#rey{
-    color white;
-    background-color: rgb(252, 183, 9);
-}
-#rey{
+.button-two{
+    background-color: yellow;
     font-size: 28px;
 }
